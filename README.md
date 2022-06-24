@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
 
 - 📍 Based in **London, United Kingdom**. From **Alexandria, Egypt**.
-- 🎓 Pursuing a **BSc Computer Scient degree** at **Royal Holloway University of London**.
+- 🎓 Pursuing a **BSc Computer Science degree** at **Royal Holloway University of London**.
 - 💻 I specialise in **design systems**, **performant frontend applications**, **complex web editors** and **managing monorepos**.
 - 🔮 Core maintainer of [tRPC](https://github.com/trpc/trpc), currently working on a new documentation website.
 - 🚀 Currently working on [Noodle](https://github.com/ixahmedxi/noodle), an open source student productivity platform that combines note taking, tasks, assignments, grade calculations, calendar and more!.
