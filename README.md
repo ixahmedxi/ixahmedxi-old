@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Hi!👋, I'm Ahmed Elsakaan</h1>
+<img align="right" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="coding gif" width="250">
 
-## Getting Started
+- 📍 Based in **London, United Kingdom**. From **Alexandria, Egypt**.
+- 🎓 Pursuing a **BSc Computer Scient degree** at **Royal Holloway University of London**.
+- 💻 I specialise in **design systems**, **performant frontend applications**, **complex web editors** and **managing monorepos**.
+- 🔮 Core maintainer of [tRPC](https://github.com/trpc/trpc), currently working on a new documentation website.
+- 🚀 Currently working on [Noodle](https://github.com/ixahmedxi/noodle), an open source student productivity platform that combines note taking, tasks, assignments, grade calculations, calendar and more!.
 
-First, run the development server:
+My current favourite technologies are [NX](https://nx.dev), [React](https://reactjs.org), [Next](https://nextjs.org), [Remix](https://remix.run), [Svelte](https://svelte.dev), [Storybook](https://storybook.js.org), [Slate](https://slatejs.org), [Stitches](https://stitches.dev), [Vanilla Extract](https://vanilla-extract.style), [Radix](https://radix-ui.com) [Graphql](https://graphql.org) and [tRPC](https://trpc.io).
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ixahmedxi&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ixahmedxi" /></p>
+</div>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div align="center">
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ixahmedxi&theme=github-dark-blue&hide_border=true" alt="Github streak" />
+</p>
+</div>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h3 align="center">Connect with me!</h3>
+<p align="center">
+<a href="https://codepen.io/ixahmedxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ixahmedxi" height="30" width="40" /></a>
+<a href="https://twitter.com/ixahmedxii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ixahmedxii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ixahmedxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ixahmedxi" height="30" width="40" /></a>
+<a href="https://instagram.com/ix.ahmed.xi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ixahmedxi" height="30" width="40" /></a>
+<a href="https://medium.com/@ixahmedxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ixahmedxi" height="30" width="40" /></a>
+</p>
