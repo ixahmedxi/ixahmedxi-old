@@ -7,7 +7,7 @@
 - 🔮 Core maintainer of [tRPC](https://github.com/trpc/trpc), currently working on a new documentation website.
 - 🚀 Currently working on [Noodle](https://github.com/ixahmedxi/noodle), an open source student productivity platform that combines note taking, tasks, assignments, grade calculations, calendar and more!.
 
-My current favourite technologies are [NX](https://nx.dev), [React](https://reactjs.org), [Next](https://nextjs.org), [Remix](https://remix.run), [Svelte](https://svelte.dev), [Storybook](https://storybook.js.org), [Slate](https://slatejs.org), [Stitches](https://stitches.dev), [Vanilla Extract](https://vanilla-extract.style), [Radix](https://radix-ui.com) [Graphql](https://graphql.org) and [tRPC](https://trpc.io).
+My current favourite technologies are [NX](https://nx.dev), [React](https://reactjs.org), [Next](https://nextjs.org), [Remix](https://remix.run), [Svelte](https://svelte.dev), [Storybook](https://storybook.js.org), [Slate](https://slatejs.org), [Stitches](https://stitches.dev), [Vanilla Extract](https://vanilla-extract.style), [Radix](https://radix-ui.com), [Graphql](https://graphql.org) and [tRPC](https://trpc.io).
 
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ixahmedxi&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="ixahmedxi" /></p>
