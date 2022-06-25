@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+p {
+  @apply text-zinc-400;
+}
+
+strong {
+  @apply text-zinc-300;
+}
+
+a {
+  @apply text-blue-500 underline font-semibold;
+}

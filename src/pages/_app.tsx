@@ -8,7 +8,7 @@ const App = ({ Component, pageProps }: AppProps) => {
       <Head>
         <title>Ahmed Elsakaan - Frontend Web Developer</title>
       </Head>
-      <main className="container mx-auto px-6 md:px-12">
+      <main className="max-w-[960px] mx-auto">
         <Component {...pageProps} />
       </main>
     </>
